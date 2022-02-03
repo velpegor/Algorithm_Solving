@@ -11,3 +11,4 @@ for i in range(n):
     kill_arr.append(arr.pop(position))
 
 print("<",', '.join(str(i) for i in kill_arr), '>', sep="")
+
