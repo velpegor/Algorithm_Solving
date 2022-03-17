@@ -21,4 +21,5 @@ for i in a:
         temp += i
 
 ans += temp[::-1]
+
 print(ans)
