@@ -25,3 +25,4 @@ for i in s:
             print(str1 / str2)
 
 print("{:.2f}".format(stack[0]))
+
