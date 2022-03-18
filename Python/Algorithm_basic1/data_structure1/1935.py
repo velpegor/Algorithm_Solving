@@ -22,7 +22,6 @@ for i in s:
             stack.append(str1 * str2)
         elif i == '/':
             stack.append(str1 / str2)
-            print(str1 / str2)
 
 print("{:.2f}".format(stack[0]))
 
